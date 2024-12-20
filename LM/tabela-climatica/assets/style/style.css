@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    font: 900 2rem "Arial", sans-serif;
+}
+
+.climatica__wrapper {
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.climatica__wrapper {
+    padding: 1rem 0;
+    margin-bottom: 2rem;
+
+    table {
+        width: 20%;
+        font-family: 'Times New Roman', Times, serif;
+        /* 12px -> 0.75rem */
+        font-size: 0.75rem;
+        background-color: rgb(240, 248, 255);
+        text-align: center;
+
+        th,
+        td {
+            /* 1px -> 0.0625rem */
+            border: 0.0625rem solid black;
+            /* 5px -> 0.3125rem */
+            padding: 0.3125rem;
+        }
+
+        th {
+            background-color: rgb(168, 218, 213);
+        }
+
+        tr:hover {
+            background-color: rgb(168, 218, 213);
+        }
+    }
+}
