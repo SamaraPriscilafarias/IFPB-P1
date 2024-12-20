@@ -8,3 +8,5 @@
     - [Exercício-3](LM/Exercicio-3/index.html)
     - [Exercício-4](LM/Exercicio-4/index.html)
     - [Exercício-5](LM/Exercicio-5/index.html)
+    - [Exercício-Tabelas](LM/tabela-climatica/index.html)
+    - [Exercício-Notas](LM/tabela-notas/index.html)
